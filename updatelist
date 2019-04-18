@@ -1,6 +1,6 @@
 {
 version : '1.0',
-ownloadlink: '',
+downloadlink: '',
 Message : '1.0',
 Changelog : '',
 isClose : 'true',
