@@ -1,10 +1,10 @@
 {
 version : '1.0',
-downloadlink: '',
+downloadlink: 'https://github.com/faberskid/esketit/raw/master/fakeskeet.dll',
 Message : '1.0',
 Changelog : '',
 isClose : 'true',
-filename : 'Loader.exe'
+filename : 'fakeskeet.dll'
 
 
 }
