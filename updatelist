@@ -1,0 +1,10 @@
+{
+version : '1.0',
+ownloadlink: '',
+Message : '1.0',
+Changelog : '',
+isClose : 'true',
+filename : 'Loader.exe'
+
+
+}
